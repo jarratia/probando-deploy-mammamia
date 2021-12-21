@@ -2,7 +2,7 @@
   <div
     class="header d-flex flex-column justify-content-center text-white text-center"
   >
-    <h1>¡Pizzería de la nonna!</h1>
+    <h1>¡Pizzería mamma mia</h1>
     <h6>¡Tenemos las mejores pizzas que podrás encontrar!</h6>
     <hr class="w-75 mx-auto" />
   </div>
