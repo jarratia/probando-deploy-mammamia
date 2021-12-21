@@ -3,7 +3,7 @@
     class="header d-flex flex-column justify-content-center text-white text-center"
   >
     <h1>¡Pizzería mamma mia</h1>
-    <h6>¡Tenemos las mejores pizzas que podrás encontrar!</h6>
+    <h6>¡Somos el mejor país de chile!</h6>
     <hr class="w-75 mx-auto" />
   </div>
 </template>
